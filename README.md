@@ -79,8 +79,7 @@ the highest switching rates despite being high-value segments.
 |---|---|
 | Python (Pandas) | Data loading, merging & cleaning |
 | Google Colab | Python development environment |
-| SQL Server | Database design & schema building |
-| T-SQL | Analytical views & queries |
+| SQL Server (T-SQL) | Database design, schema building & analytical queries |
 | Power BI | Dashboard design & visualization |
 | GitHub | Project hosting & documentation |
 
