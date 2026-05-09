@@ -25,10 +25,14 @@ merged them into a single DataFrame of 10,127 rows and 21 columns.
 2. **Data Cleaning (Python):** Removed duplicates, fixed typos 
 in Marital_Status, imputed missing values in Age, Education_Level, 
 and Income_Range, and corrected data types.
-3. **Analytical Queries (SQL):** Built 10 analytical views covering 
-churn rate, income distribution, card types, transaction trends, 
-inactivity patterns, and education profiles.
-4. **Visualization (Power BI):** Built a 5-page interactive 
+3. **Database Design (SQL Server):** Designed and built the 
+database schema from scratch in SQL Server, establishing 
+relationships between Customer, Account Activity, and 
+Transaction tables.
+4. **Analytical Queries (SQL):** Built 10 analytical views 
+covering churn rate, income distribution, card types, 
+transaction trends, inactivity patterns, and education profiles.
+5. **Visualization (Power BI):** Built a 5-page interactive 
 dashboard with a navigation sidebar, Attrited/Existing customer 
 toggle, and an Executive Summary page.
 
@@ -74,9 +78,10 @@ the highest switching rates despite being high-value segments.
 | Tool | Purpose |
 |---|---|
 | Python (Pandas) | Data loading, merging & cleaning |
-| SQL (T-SQL) | Analytical views & queries |
-| Power BI | Dashboard design & visualization |
 | Google Colab | Python development environment |
+| SQL Server | Database design & schema building |
+| T-SQL | Analytical views & queries |
+| Power BI | Dashboard design & visualization |
 | GitHub | Project hosting & documentation |
 
 ---
